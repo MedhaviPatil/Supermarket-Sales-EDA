@@ -7,7 +7,7 @@ link to data source: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sale
 
 # Libraries used
 I Built this project using following libraries:
-Numpy 
-Pandas
-Matplotlib
-Seaborn
+1. Numpy 
+2. Pandas
+3. Matplotlib
+4. Seaborn
